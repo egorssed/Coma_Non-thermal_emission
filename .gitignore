@@ -2,3 +2,5 @@
 *.ipynb
 *.spec
 *.pdf
+.gitignore
+.DS_Store
