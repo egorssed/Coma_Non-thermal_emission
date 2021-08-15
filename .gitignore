@@ -1,7 +1,0 @@
-./fold2019/files/
-*.ipynb
-*.spec
-*.pdf
-.gitignore
-*.DS_Store
-./venv/
