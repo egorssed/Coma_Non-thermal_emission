@@ -1,0 +1,4 @@
+./fold2019/files
+*.ipynb
+*.spec
+*.pdf
