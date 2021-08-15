@@ -3,4 +3,4 @@
 *.spec
 *.pdf
 .gitignore
-.DS_Store
+*.DS_Store
